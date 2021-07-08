@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-notification-example",
+    "slug": "expo-notification-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-notification-example"
+}
